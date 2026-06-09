@@ -34,10 +34,4 @@ Before running this test, ensure you have the following installed:
 | Chrome Browser | Latest | Browser for automation |
 | ChromeDriver | Matching Chrome version | WebDriver for Chrome |
 
-## 🔧 Installation
 
-### 1. Clone or Create the Project
-
-```bash
-mkdir sauce-demo-tests
-cd sauce-demo-tests
